@@ -1,36 +1,4 @@
 {
-    "budgets": [
-
-
-      { "id": 1,"userid":1, "category": "Dinner" ,"limit":1000  },
-      { "id": 2,"userid":1, "category": "Bills" ,"limit":1500  },
-      { "id": 3,"userid":2, "category": "Dinner" ,"limit":2000  },
-      { "id": 4,"userid":2, "category": "Bills" ,"limit":2000  },
-      { "id": 5,"userid":3, "category": "Dinner" ,"limit":1000  },
-      { "id": 6,"userid":2, "category": "Entertainment" ,"limit":2500  },
-      { "id": 7,"userid":1, "category": "Entertainment" ,"limit":1000  }
-
-     
-
-    ],
-    "expenses": [
-
-
-      { "id": 1, "userid":1, "title": "Bawarchi Restaurant", "category": "Dinner" ,"type":"debit" ,"amount":400 },
-      { "id": 2, "userid":1, "title": "Recharge", "category": "Bills" ,"type":"debit" ,"amount":190 },
-      { "id": 3, "userid":2, "title": "Restaurant", "category": "Dinner" ,"type":"debit" ,"amount":500 },
-      { "id": 4, "userid":2, "title": "Mobile reacharge", "category": "Bills" ,"type":"debit" ,"amount":300 },
-      { "id": 5, "userid":2, "title": "Movie", "category": "Entertainment" ,"type":"debit" ,"amount":600 },
-      { "id": 6, "userid":3, "title": "Kaniska Restaurant", "category": "Dinner" ,"type":"debit" ,"amount":500 },
-      { "id": 7, "userid":2, "title": "Gift", "category": "Dinner" ,"type":"credit" ,"amount":400 },
-      { "id": 8, "userid":1, "title": "Scholarship", "category": "Income" ,"type":"credit" ,"amount":7000 },
-
-
-
-    ],
-
-    "users":[ {"id":"1", "firstName": "Raju" ,"lastName":"kumar" ,"userName": "Raju123","email": "Raju123@gmail.com" },
-        {"id":"2", "firstName": "Vijay" ,"lastName":"Kumar" ,"userName": "Vijay123","email": "Vijay123@gmail.com" },
-        {"id":"3", "firstName": "Rajesh" ,"lastName":"Kumar" ,"userName": "Rajesh123","email": "Rajesh123@gmail.com" }]
+   users:["john","rachel"]
 
   }
