@@ -1,4 +1,3 @@
 {
-   users:["john","rachel"]
-
-  }
+   "users":["john","rachel"]
+}
